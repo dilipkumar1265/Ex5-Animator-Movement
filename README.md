@@ -55,7 +55,7 @@ public class PlayerController : MonoBehaviour
 
 ```
 ## Output:
-![](./out.png)
+![WhatsApp Image 2024-04-29 at 09 57 30](https://github.com/Abrinnisha6/Ex5-Animator-Movement/assets/118889454/8203fa4b-1e61-44af-b7b1-c6de7a91ae2b)
 
 ## Result:
 An animator movement for a player using unity is developed successfully.
